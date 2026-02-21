@@ -1,0 +1,2 @@
+# whoop-privacy
+Whoop Data
